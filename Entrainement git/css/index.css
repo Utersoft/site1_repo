@@ -1,0 +1,12 @@
+h1
+{
+    font-weight: 300;
+    color : darkgray;
+    border: 4 px solid yellow;
+    border-radius: 5px;
+}
+
+a
+{
+    color : skyblue;
+}
